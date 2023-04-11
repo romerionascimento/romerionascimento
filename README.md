@@ -51,5 +51,5 @@
   </div>
  
 
-
+![snake gif](https://github.com/romerionascimento/romerionascimento/blob/output/github-contribution-grid-snake.svg)
 
