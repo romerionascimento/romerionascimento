@@ -47,7 +47,6 @@
   
   <div align="center">
  
-  ![snake gif](https://github.com/Formandodev/romerionascimento/blob/output/github-contribution-grid-snake.svg)
   
   </div>
  
