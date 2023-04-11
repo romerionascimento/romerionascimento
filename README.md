@@ -47,8 +47,7 @@
   
   <div align="center">
  
-    <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/romerionascimento/count.svg" /></p>
-  
+     
   </div>
  
 
